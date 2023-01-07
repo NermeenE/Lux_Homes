@@ -1,0 +1,10 @@
+{
+
+  "homepage": "https://NermeenE.github.io/Lux_Homes",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
