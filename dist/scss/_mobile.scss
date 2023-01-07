@@ -8,19 +8,23 @@
     padding: 3.5rem 0 1rem;
   }
 
+  .log-in .sign-in {
+    padding: 14px 10px;
+  }
+
   .home {
     padding-bottom: 0;
     .home-container {
-      .home-title {
-        font-size: 3.5rem;
+      .home-content .home-title {
+        font-size: 3rem;
       }
 
       .home-description {
-        font-size: var(--small-fs);
+        font-size: var(--smaller-fs);
       }
 
       .home-search {
-        width: 430px;
+        min-width: 338px;
       }
 
       .home-value-number {
