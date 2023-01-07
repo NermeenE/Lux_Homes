@@ -265,7 +265,7 @@ button {
         display: inline-flex;
         align-items: flex-end;
         bottom: -1.5rem;
-        -webkit-mask: url('/dist/img/DomeShape.svg');
+        -webkit-mask: url('../img/DomeShape.svg');
         -webkit-mask-size: 100%;
         border-radius: 0 0 10px 10px;
 
@@ -453,7 +453,7 @@ button {
         inset: 0;
         margin: auto;
         box-shadow: 0 16px 32px hsla(228, 66%, 25%, 0.25);
-        -webkit-mask: url('/dist/img/DomeShape.svg');
+        -webkit-mask: url('../img/DomeShape.svg');
         -webkit-mask-size: 100%;
         border-radius: 0 0 10px 10px;
 
@@ -573,7 +573,7 @@ button {
       overflow: hidden;
       inset: 0;
       margin: auto;
-      -webkit-mask: url('/dist/img/DomeShape.svg');
+      -webkit-mask: url('../img/DomeShape.svg');
       -webkit-mask-size: 100%;
       border-radius: 0 0 10px 10px;
 
